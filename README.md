@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omaromi, Omar MN
+- 👋 Hey there, I’m Omar, an educator, project manager, and forever learner.
 - 👀 I’m interested in ... learning more about data science and computer science, specifically in education or bioinformatics
 - 🌱 I’m currently learning ... Python through Django and pandas
 - 💞️ I’m looking to collaborate on ...
