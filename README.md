@@ -2,10 +2,12 @@
 
 - I’m Omar, an educator, thinker, and forever learner.
 - Right now, I work at Fullstack Academy as a Program Lead.
+- Before that, I was a career coach at an education nonprofit and a biochemistry researcher.
 
 
-- I'm currently diving deeper into data science with python and pandas.
-- When I'm not learning, I tell jokes on stage.
+- I'm currently learning about programming through Python.
+- My background in STEM and education has me diving deeper into data science with python and pandas.
+- When I'm not learning, I produce a monthly standup comedy show and tell jokes on stage.
 
 
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/omar-mn/) or [Instagram](https://www.instagram.com/ethnicallyomar/)
