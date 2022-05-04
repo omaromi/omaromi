@@ -5,7 +5,7 @@
 - Before that, I was a career coach at an education nonprofit and a biochemistry researcher.
 
 
-- I'm currently learning about programming through Python.
+- I'm currently learning about programming through Python and JavaScript.
 - My background in STEM and education has me diving deeper into data science with python and pandas.
 - When I'm not learning, I produce a monthly standup comedy show and tell jokes on stage.
 
