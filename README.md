@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 - I’m Omar, an educator, thinker, and forever learner.
-- Right now, I work at Fullstack Academy as a Program Lead.
+- Right now, I work at [projectBasta]([projectbasta](https://projectbasta.com/) as a Product Manager.
 - Before that, I was a career coach at an education nonprofit and a biochemistry researcher.
 
 
