@@ -2,7 +2,7 @@
 
 - I’m Omar, an educator, thinker, and forever learner.
 - Right now, I work at [projectBasta](https://projectbasta.com/) as a Product Manager.
-- Before that, I was a career coach at an education nonprofit and a biochemistry researcher.
+- In my past, I've been a career coach to young first-gen New Yorkers, a program lead at a coding bootcamp, and a biochemistry researcher working on antibiotic drug design.
 
 
 - I'm currently learning about programming through Python and JavaScript.
