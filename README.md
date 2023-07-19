@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 - I’m Omar, an educator, thinker, and forever learner.
-- Right now, I work at [projectBasta](https://projectbasta.com/) as a Product Manager.
+- Right now, I work at [Basta](https://projectbasta.com/) as a Product Manager.
 - In my past, I've been a career coach to young first-gen New Yorkers, a program lead at a coding bootcamp, and a biochemistry researcher working on antibiotic drug design.
 
 
