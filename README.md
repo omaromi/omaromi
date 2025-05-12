@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-- I’m Omar, an educator, product manager, and learning addict.
+- I’m Omar, an educator, builder, and learning addict.
 - Right now, I work at [BASTA](https://projectbasta.com/) as a Data Engineer.
 - We're building Seekr, an app that gives personalized career advice for first-generation college students.
 
