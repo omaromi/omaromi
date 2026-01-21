@@ -1,8 +1,8 @@
 ## Hey there 👋
 
 - I’m Omar, an educator, builder, and learning addict.
-- Right now, I work at [BASTA](https://projectbasta.com/) as a Data Engineer.
-- We're building Seekr, an app that gives personalized career advice for first-generation college students.
+- Most recently, I worked at [BASTA](https://projectbasta.com/) as a Data Engineer.
+- We built Seekr, an app that gives personalized career advice for first-generation college students.
 
 About Me
 - Before BASTA, I was a career coach to first-gen college students and before that, a researcher working on antibiotic drug design.
